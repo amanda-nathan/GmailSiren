@@ -1,6 +1,13 @@
 # Gmail Email Alert Monitor
 A Python script that monitors your Gmail inbox for new emails from a specific domain and plays an audible alarm when they arrive.
 
+## Screenshot Demo
+
+
+![Gmail Alert Monitor in action](screenshot.png)
+
+*Demo showing email monitoring with personal information redacted.*
+
 ## Motivation
 I created this script because I was anxiously waiting for an important email and didn't want to keep hitting refresh myself. I needed a tool that would check for me and provide a loud alert that I could hear even if I was in a different room or focused on another task.
 
